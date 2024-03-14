@@ -7,3 +7,11 @@
 {
     background-color: black; color: white; padding: 10; border-radius: 15px;
 }
+
+.buttonblue
+{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 16px;
+}
